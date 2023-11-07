@@ -1,2 +1,2 @@
-# belajarr-GGithub
+# belajarr-Github
 hiii
